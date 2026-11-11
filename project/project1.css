@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.container {
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+#icon1 {
+    margin-right: 10px;
+}
+
+#icon2 {
+    margin-right: 10px;
+}
+
+
+#icon3 {
+    margin-right: 10px;
+}
+
+
+#icon4 {
+    margin-right: 10px;
+}
+
+
+#icon5 {
+    margin-right: 10px;
+}
+
+
+#NUM {
+
+    text-decoration: none;
+    color: white;
+}
+
+#EMAIL {
+    text-decoration: none;
+    color: white;
+}
+
+.REALITY {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+
+#XTREAM {
+
+    padding: 10px;
+    font-size: 30px;
+}
+#XTREAM:hover{
+    color: purple;
+}
+
+#par1 {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    background-color: green;
+    padding: 10px;
+    font-size: 20px;
+}
+#part1:hover{
+    color: blue
+}
+
+#par2 {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+#part2hover{
+    color: blue
+}
+
+#par3 {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+#part3hover{
+    color: blue
+}
+
+
+#par4 {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+#part4over{
+    color: blue
+}
+
+
+#par5 {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+#part5:hover {
+    color: blue
+}
+
+
+.interact {
+    background-image: url(business.jpg);
+    height: 500px;
+    width: 100%;
+}
+
+#ideas {
+    color: black;
+    font-size: 30px;
+    /* padding: 30px; */
+    /* margin: 50px; */
+    padding-bottom: 100px;
+
+}
+
+#service {
+    color: green;
+    padding-bottom: 50px;
+    margin: 50px;
+    padding-top: 250px;
+
+}
+
+.order {
+    background-color: antiquewhite;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.box1 {
+    padding-top: 20px;
+    width: 700px;
+    padding-left: 250px;
+    line-height: 1.5;
+}
+
+#order1 {
+    background-color: white;
+    height: 270px;
+    width: 290px;
+    text-align: center;
+    display: inline-block;
+    line-height: 1.5;
+    box-shadow: 4px 4px 14px rgb(255, 177, 177);
+
+}
+
+.sol {
+    padding-top: 50px;
+
+}
+
+#box2 {
+    padding-top: 20px;
+    margin-right: 10px;
+    margin-right: 10px;
+}
+
+#order2 {
+    background-color: white;
+    height: 270px;
+    width: 290px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    box-shadow: 4px 4px 14px rgb(255, 177, 177);
+
+}
+
+.order3 {
+    background-color: white;
+    height: 270px;
+    width: 290px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 4px 4px 14px rgb(255, 177, 177);
+
+
+}
+#icons{
+    padding: 10px;
+}
+.process {
+    background-color: #9bd437;
+    padding: 35px 60px;
+    text-align: center;
+}
+
+.process h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.process > p {
+    font-size: 12px;
+    margin-bottom: 25px;
+}
+
+.process-box {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.card {
+    background-color: white;
+    width: 33%;
+    text-align: left;
+    padding-bottom: 15px;
+}
+
+.card img {
+    width: 100%;
+    height: 130px;
+    object-fit: cover;
+}
+
+.card h3 {
+    font-size: 16px;
+    margin: 8px 10px;
+}
+
+.card p {
+    font-size: 11px;
+    margin: 0 10px;
+    line-height: 1.5;
+}
+
+
